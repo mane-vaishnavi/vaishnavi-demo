@@ -1,4 +1,4 @@
 # vaishnavi-demo
 this is my first Repository
 <br>
-Author - vaishnavi mane
+Author - vaishnavi mane (student)
